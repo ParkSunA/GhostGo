@@ -5,6 +5,7 @@ header{
 }
 
 main{
+    height:770px;
     text-align: center;
 }
 main div.main{
@@ -13,7 +14,15 @@ main div.main{
     border: solid 1px black;
 }
 
+.copy{
+    border: solid 1px blue;
+}
+
 footer{
     height: 80px;
-    border: solid 1px blue;
+    border-top: solid 1px black;
+}
+
+#translate{
+    border: solid 1px green;
 }
